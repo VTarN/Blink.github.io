@@ -1,0 +1,43 @@
+body {
+	font-family: Arial;
+  color: Black;
+  background:  #e7e4e2;
+  font-size: 14px;
+  padding: 10px;
+  margin: 100px;
+}
+.all {
+	background-color: white;
+	font-family: Colibri;
+	font-size: 13px;	
+	padding: 30px;
+	margin: 50px; 20px 20px 10px;
+}
+.all1 {
+	background-color: white;
+	font-size: 13px;	
+	padding: 80px;
+	margin: 10px; 50px 50px 50px;
+}
+.hide {
+	width:100%; height:1px; clear:both;
+}
+.second {
+	background-color: white;
+	width: 100%; height: 50px; clear: both;
+}
+h3 {
+	font-family: Verdana;
+	Color: black;
+}
+h4 {
+	font-family: Arial;
+	color: #6565eb;
+	font-size: 18px;
+}
+
+.all > p {
+	Font-family: Times New Roman;
+	Font-size: 18px;
+	color: black;
+}
